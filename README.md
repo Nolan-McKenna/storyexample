@@ -2,4 +2,4 @@
 DataVizForAll.org story template using modified Bootstrap
 
 ## live view (change to your GitHub Pages link)
-https://datavizforall.github.io/dataviz-story-template/
+https://datawrapper.dwcdn.net/s4jxM/7/
